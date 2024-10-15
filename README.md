@@ -1,5 +1,3 @@
-# VR Interaction Research
-
 # VR Interaction Research Project Proposal
 
 ## Project Overview
