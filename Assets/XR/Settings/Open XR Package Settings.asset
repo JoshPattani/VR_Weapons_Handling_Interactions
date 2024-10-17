@@ -193,11 +193,7 @@ MonoBehaviour:
   m_Name: WebGL
   m_EditorClassIdentifier: 
   features:
-<<<<<<< Updated upstream
-  - {fileID: -7252556579701683712}
-=======
   - {fileID: -5598638682343627730}
->>>>>>> Stashed changes
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
